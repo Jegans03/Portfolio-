@@ -144,12 +144,12 @@ span{
 
 .about-img img{
   width:25vw;
-  animation:floatImage 4s ease-in-out infinite;
+/*  animation:floatImage 4s ease-in-out infinite;*/
 }
 
-.about-content{
+/*.about-content{
   margin-right:20px;
-}
+}*/
 
 
 .heading{
