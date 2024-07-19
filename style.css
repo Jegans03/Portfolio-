@@ -145,8 +145,12 @@ span{
 .about-img img{
   width:25vw;
   animation:floatImage 4s ease-in-out infinite;
+}
+
+.about-content{
   margin-right:20px;
 }
+
 
 .heading{
   text-align:center;
