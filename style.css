@@ -144,6 +144,11 @@ span{
 
 .about-img img{
   width:25vw;
+  float:left;
+}
+
+.about-content{
+  margin-right:20px;
 }
 
 .heading{
